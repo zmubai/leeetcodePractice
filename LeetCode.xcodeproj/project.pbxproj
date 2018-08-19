@@ -31,6 +31,7 @@
 		DBE6E5832128805200E2CDA1 /* tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = tree.cpp; sourceTree = "<group>"; };
 		DBE6E5842128805200E2CDA1 /* tree.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = tree.hpp; sourceTree = "<group>"; };
 		DBE6E5852128805200E2CDA1 /* LeetCodeA.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = LeetCodeA.hpp; sourceTree = "<group>"; };
+		DBE6E589212903D700E2CDA1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +69,7 @@
 				DBE6E5832128805200E2CDA1 /* tree.cpp */,
 				DBE6E5842128805200E2CDA1 /* tree.hpp */,
 				DBE6E57B21287FF600E2CDA1 /* main.m */,
+				DBE6E589212903D700E2CDA1 /* README.md */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
